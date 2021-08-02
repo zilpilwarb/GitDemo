@@ -17,7 +17,6 @@ public class Demo {
 //		if you are landed on correct site
 		System.out.println(driver.getCurrentUrl());
 		System.out.println("Currently cursor is on Google");
-		System.out.println("Currently cursor is on Google only this is just to check git, can be removed later");
 		
 //		print page source 
 //		System.out.println(driver.getPageSource());
